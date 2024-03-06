@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Gouri Markal and I'm a passionate Power BI Developer , from India</p>
+<p align="left">My name is Gouri Markal and I'm a passionate Front-end Developer , from India</p>
 
 ###
 
